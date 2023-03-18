@@ -1,0 +1,48 @@
+{
+  "ConnectionType": "canada",
+  "VpnUserName"   :"L42BvTbfPgrozGgHPHhGGFno",
+  "VpnPassword"   :"wfHC1HRBvD6PHvkyQoXhsXgz",
+  "VpnFiles": [
+    {
+      "vpnName": "canada",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/ppsspp/ca_nordvpn_udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/ca.png"
+    },
+    {
+      "vpnName": "US-Miami",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Miami-UDP.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-SanJose",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-San Jose-UDP.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-Seattle",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Seattle-UDP.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-Dallas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Dallas-UDP.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-Denver",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Denver-UDP.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-Las-Vegas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Las Vegas-UDP.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "US-Atlanta",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Atlanta-UDP.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    }
+   
+  ]
+}
