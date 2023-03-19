@@ -7,20 +7,20 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
+    "BannerNetwork"              : "applovin",
+    "InterstitialNetwork"        : "applovin",
+    "NativeNetwork"              : "applovin",
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"           : "00000",
+    "AdMob_InterstitialAd"   : "00000",
+    "AdMob_Native"           : "00000",
     
     
-    "Applovin_Banner"         : "0000",
-    "Applovin_InterstitialAd" : "0000",
-    "Applovin_Native"         : "0000"
+    "Applovin_Banner"         : "e316f14f2d36e0a8",
+    "Applovin_InterstitialAd" : "d7e9ee2299f53dbe",
+    "Applovin_Native"         : "1cf7a3299f7bcea7"
   },
   
  
