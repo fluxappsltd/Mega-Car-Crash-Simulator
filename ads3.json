@@ -12,10 +12,10 @@
     "NativeNetwork"              : "applovin",
     
     "IntervalClick"          : 1,
-    "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "00000",
-    "AdMob_InterstitialAd"   : "00000",
-    "AdMob_Native"           : "00000",
+    "AdMob_ID"               : "pub-1809947459505682",
+    "AdMob_Banner"           : "ca-app-pub-1809947459505682/4598683651",
+    "AdMob_InterstitialAd"   : "ca-app-pub-1809947459505682/2505753221",
+    "AdMob_Native"           : "ca-app-pub-1809947459505682/8879589889",
     
     
     "Applovin_Banner"         : "e316f14f2d36e0a8",
